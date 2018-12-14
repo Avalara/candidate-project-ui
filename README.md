@@ -6,6 +6,7 @@ This project tests a range of basic UI and client-side development skills. Pleas
 You will need Node.js installed, that's all.
 
 **Step 1** 
+
 Get a free API account: 
 - Go here: https://sandbox-rest.avatax.com/swagger/ui/index.html
 - Scroll down to **Free**
@@ -17,6 +18,7 @@ Get a free API account:
 - Click the https://sandbox.admin.avalara.com/ link in your email, log in with your username and temporary password, and reset your password. Do not use any of your personal passwords!
 
 **Step 2**
+
 Build a UI that meets the requirements given to you by your recruiter. You'll need to use two dependencies:
 - Data from the AvaTax [TaxRatesByAddress](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint
 - [Avalara's design system](https://s-docs.assets.avalara.com) for UI elements
