@@ -4,6 +4,7 @@ Test project for UI Engineering candidates
 Hello and thanks again for your interest in Avalara!
 
 This project tests a range of basic UI and client-side development skills. Please review the attached mockup and build it to spec. This project should take about 2 hours.
+
 **Step 1:** 
 Get a free API account: 
 - Go here: https://sandbox-rest.avatax.com/swagger/ui/index.html
