@@ -13,7 +13,7 @@ Getting a free API account:
 - See response JSON below, note the `"accountDetailsEmailedTo": "your_email@example.com"`
 - Click the https://sandbox.admin.avalara.com/ link in your email and login with your username and temporary password. Then reset your password.
 
-Using the Tax Rates By Address endpoint, do the following:
+Using the [Tax Rates By Address](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint, do the following:
 Build a UI that calculates the total amount including sales tax 
 Input amount
 Input address
