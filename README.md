@@ -17,6 +17,8 @@ Build a UI that meets the requirements given to you by your recruiter. You'll ne
 - Data from the AvaTax [TaxRatesByAddress](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint
 - [Avalara's design system](https://s-docs.assets.avalara.com) for UI elements
 
+**Step 3*:** Zip your project up and email it to the recruiter.
+
 ## FAQ
 - _What framework should I use?_ Your choice, including no framework at all. This is not a framework test.
 - _Am I supposed to make the UI look exactly like the mockup?_ Yes and the necessary stylesheet is already linked to in the app. Simply refer to the design system docs in Step 2.
