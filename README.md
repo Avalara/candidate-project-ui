@@ -15,4 +15,6 @@ Get a free API account:
 - Click the https://sandbox.admin.avalara.com/ link in your email, log in with your username and temporary password, and reset your password
 
 **Step 2:**
-Using data from the [Tax Rates By Address](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint, build a UI that meets the requirements given to you by your recruiter.
+Build a UI that meets the requirements given to you by your recruiter. You have two dependencies:
+- Data from the [Tax Rates By Address](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint
+- [Avalara's design system](https://s-docs.assets.avalara.com) for UI elements
