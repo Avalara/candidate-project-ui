@@ -1,4 +1,4 @@
-# candidate-screener-ui
+# Candidate Screener for UI
 Screener project for UI Engineering candidates
 ## Coding project
 Candidate is being asked to create a free API account here and build some basic UI
