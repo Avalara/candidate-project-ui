@@ -18,3 +18,7 @@ Get a free API account:
 Build a UI that meets the requirements given to you by your recruiter. You have two dependencies:
 - Data from the AvaTax [Tax Rates By Address](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint
 - [Avalara's design system](https://s-docs.assets.avalara.com) for UI elements
+
+## FAQ
+- _What framework should I use?_ Your choice, including no framework at all. This is not a framework test.
+- _Am I supposed to make the UI look exactly like the mockup?_ Yes and the necessary stylesheet is already linked. Simply refer to the design system docs linked to in Step 2.
