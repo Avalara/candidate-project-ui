@@ -22,3 +22,4 @@ Build a UI that meets the requirements given to you by your recruiter. You have 
 ## FAQ
 - _What framework should I use?_ Your choice, including no framework at all. This is not a framework test.
 - _Am I supposed to make the UI look exactly like the mockup?_ Yes and the necessary stylesheet is already linked. Simply refer to the design system docs linked to in Step 2.
+- _This is taking me longer than I thought or I haven't got to start yet, can I have more time?_ Yes. Please message the recruiter with a new estimate.
