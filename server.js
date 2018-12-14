@@ -21,7 +21,7 @@ app.set('view engine', '.hbs');
 
 
 // Routes
-app.get('/', (req, res) => res.render('home', {home: true}));
+app.get('/', (req, res) => res.render('home'));
 
 
 // Start server
