@@ -1,6 +1,4 @@
-# Candidate Screener for UI
-Test project for UI Engineering candidates
-## Coding project
+# Coding project for UI applicants
 Hello and thanks again for your interest in Avalara!
 
 This project tests a range of basic UI and client-side development skills. Please review the attached mockup and build it to spec. This project should take about 2 hours.
