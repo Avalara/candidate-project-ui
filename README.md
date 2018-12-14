@@ -11,7 +11,7 @@ Get a free API account:
 - Click **Try it out**
 - In the sample JSON change `email` to your email
 - Click **Execute**
-- See response JSON below, note the `"accountDetailsEmailedTo": "your_email@example.com"`
+- See response JSON below that and note the `"accountDetailsEmailedTo": "your_email@example.com"`
 - Click the https://sandbox.admin.avalara.com/ link in your email, log in with your username and temporary password, and reset your password
 
 **Step 2:**
