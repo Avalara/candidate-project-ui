@@ -1,8 +1,9 @@
 # Candidate Screener for UI
-Screener project for UI Engineering candidates
+Test project for UI Engineering candidates
 ## Coding project
-Candidate is being asked to create a free API account here and build some basic UI
+Hello and thanks again for your interest in Avalara!
 
+This project tests a range of basic UI and client-side development skills. Please review the attached mockup and build it to spec. This project should take about 2 hours.
 Getting a free API account: 
 - Go here: https://sandbox-rest.avatax.com/swagger/ui/index.html
 - Scroll down to **Free**
