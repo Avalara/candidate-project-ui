@@ -1,7 +1,7 @@
 # Coding project for UI candidates
 This project tests a range of front-end development skills. 
 
-Please review the attached mockup and build it to spec. Understand that not every detail is spelled out in the spec. Part of your challenge is to cover edge cases and follow best-practices on our own. This project should take about 2 hours.
+Please review the attached mockup (see email from recruiter) and build it to spec. Understand that not every detail is spelled out in the spec. Part of your challenge is to cover edge cases and follow best-practices on our own. This project should take about 1-2 hours.
 
 **Set up**
 
