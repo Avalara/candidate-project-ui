@@ -21,7 +21,7 @@ Get a free API account:
 
 **Step 2**
 
-Build a working app that matches the Tax Calulator design. You'll need to use two dependencies:
+Using the provided code, build out a working UI that matches `Tax Calulator design.png`. You'll need to use two dependencies:
 - Data from the AvaTax [TaxRatesByAddress](https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) endpoint. You need to use Basic or Bearer authentication
 - [Avalara's design system](https://s-docs.assets.avalara.com) for UI elements
 
