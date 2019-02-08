@@ -27,7 +27,7 @@ Starting with the provided code, build out a working UI that matches `Tax Calula
 
 **Step 3** 
 
-Zip your project up and email it to the recruiter.
+Zip your project up and email it to the recruiter or host it on a shared drive. Please do not leave it on your public repo.
 
 ## FAQ
 - _What framework should I use?_ Your choice, including no framework at all. This is not a framework test.
