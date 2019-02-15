@@ -1,7 +1,7 @@
 # Coding project for UI candidates
 This project tests a range of front-end development skills. 
 
-You will be building a simple tax calculator. Follow the steps below, but please understand that not every detail is spelled out for you. Part of your challenge is to cover edge cases and follow best-practices on our own. This project should take about 1-2 hours.
+You will be building a simple tax calculator. Follow the steps below, but please understand that not every detail is spelled out for you. Part of your challenge is to cover edge cases and follow best-practices on our yown. This project should take about 1-2 hours.
 
 **Set up**
 
